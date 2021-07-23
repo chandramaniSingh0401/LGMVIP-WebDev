@@ -1,0 +1,37 @@
+
+
+.each{
+   margin-top: 30px;
+   text-align: center;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 5px;
+    width:250px;
+    height: 300px;
+    align-items: center;
+    background-image: url('https://images.unsplash.com/photo-1519750783826-e2420f4d687f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnViYmxlcyUyMGJhY2tncm91bmR8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 90px;
+    margin-right: 90px;
+    
+}
+
+.each:hover{
+    background-image: url('https://thumbs.dreamstime.com/b/spring-nature-background-nature-background-frame-green-tree-leaves-meadow-flowers-214827636.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.each img{
+    margin-top: 25px;
+    border-radius: 70px;
+}
+
+.all{
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+
+}

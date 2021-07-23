@@ -1,0 +1,26 @@
+.style{
+    display: flex;
+    justify-content: space-around;
+}
+
+.style1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+#content{
+    display:none;
+}
+
+.whole{
+    background-color: dimgray;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+
+
+  
