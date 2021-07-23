@@ -1,0 +1,638 @@
+
+
+/* ----------- Home Part ------------------ */
+
+
+.carousel-inner {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    width: 100%;
+    height: 600px;
+  }
+
+  h1{
+    margin-left: 200px;
+    font-size: 50px;
+    margin-top: 40px;
+    font-family: fantasy;
+    color:crimson;
+}
+
+  .href a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(80, 220, 245);
+    padding: 6px;
+    text-decoration: none;
+    font-weight: bolder;
+    
+    
+}
+.href{
+    text-align: end;
+    
+    padding: 6px;
+    border-radius: 20px;
+}
+
+.container{
+    width: 100%;
+    height:30%
+}
+
+ol{
+    margin-top: 500px;
+}
+
+
+#myCarousel{
+    height: 600px;
+}
+
+#myCarousel h2{
+    text-align: center;
+    color: seashell;
+    margin-top: 60px;
+}
+
+#myCarousel p{
+    text-align: center;
+    color: seashell;
+    margin-top: 50px;
+    
+}
+.container{
+    padding-bottom: 40px;
+}
+
+.carousel-indicators{
+    bottom: 0%;
+}
+
+#myCarousel button{
+    align-items: center;
+    text-align: center;
+
+}
+
+.but{
+    text-align: center;
+    padding: 0%;
+    bottom: 0%;
+    margin-top: 40px;
+    
+}
+
+.but button{
+    background-color: rgb(132, 34, 224);
+    padding: 5px;
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
+.title .para{
+    text-align: center;
+}
+
+
+.title{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+  
+    
+}
+
+.but button:hover{
+    background-color: rgb(238, 238, 133);
+    color: rgb(3, 3, 3);
+}
+
+.href a:hover{
+    color: tomato;
+}
+
+
+/* --------------- Welcome Part ----------------- */
+
+
+
+.para{
+    margin-left: 110px;
+}
+
+.parai img{
+    height: 100px;
+    width: 130px;
+    align-items: center;
+}
+
+.parai{
+    text-align: center;
+}
+
+.pics{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    
+    
+    
+}
+
+.welimg p{
+    text-align: center;
+}
+
+.welimg img{
+   
+    height: 50px;
+    width: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 55px;
+}
+
+.welimg h4{
+    text-align: center;
+}
+
+.pics .welimg button{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+    margin-left: 40px;
+}
+
+.welimg{
+    margin-left: 25px;
+    
+}
+
+.welcome{
+    margin-bottom: 70px;
+}
+
+.pics .welimg button:hover{
+    background-color: #7496f5;
+    color: white;
+}
+
+
+/* ----------------- Product Part --------------- */
+
+
+.prod img{
+    height: 250px;
+    width: 230px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.prod p{
+    text-align: center;
+    
+
+}
+
+.prod{
+    margin-right: 5px;
+}
+
+
+.prod button{
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(141, 166, 248);
+    padding: 6px;
+    padding-inline: 12px;
+    font-weight: bolder;
+}
+
+.secpro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+    margin-top: 50px;
+}
+
+.aspara h4{
+    text-align: center;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    color: rgb(241, 42, 42);
+    font-weight: bold;
+}
+
+.aspara{
+    background-color: rgb(209, 209, 206);
+}
+
+.aspara:hover{
+    background-color: rgb(240, 240, 156);
+}
+
+.pro:hover{
+    background-color: #e58fda;
+}
+
+
+/* -------------------- Pricing Part -------------- */
+
+.tprice{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.price{
+    text-align: center;
+    padding-inline: 25px;
+    padding-bottom: 10px;
+    border-style: solid;
+    border-width: 0 1px 0 0 ;
+}
+
+.price1{
+    text-align: center;
+    padding-inline: 25px;
+    padding-bottom: 15px;
+    padding-bottom: 15px;
+    
+}
+
+.price h4{
+    font-weight: bold;
+}
+
+.price1 h4{
+    font-weight: bold;
+}
+
+.price h7{
+    font-weight: lighter;
+}
+
+.price1 h7{
+    font-weight: lighter;
+}
+
+.price button{
+    background-color: darkgray;
+    font-weight: bold;
+}
+
+.price1 button{
+    background-color: darkgray;
+    font-weight: bold;
+}
+
+.price1 button:hover{
+    background-color: yellow;
+}
+
+.price button:hover{
+    background-color: yellow;
+}
+
+
+/* ------------  Video Part --------------*/
+
+
+.total{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6NSYXO8SdZqGyLakI3pWIRmFP-ttVabS9eQ&usqp=CAU);
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+
+#slider1{
+    width: 800px;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    align-items: center;
+
+}
+
+.video{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
+    padding-top: 20px;
+    
+    
+}
+
+#slider1::-webkit-scrollbar {
+        display: none;
+
+}
+
+
+.vid{
+    padding-bottom: 30px;
+    padding-top: 60px;
+    font-weight: bolder;
+}
+
+
+/* ------------ Team Part ----------------- */
+
+
+.fifth {
+    padding-bottom : 100px;
+    position: relative;
+  }
+
+.fifth h2{
+    margin-bottom: 40px;
+}  
+  
+  
+  .fifth .team{
+    max-width: 900px;
+    width: 90%;
+    margin: auto;
+  }
+  .teammem {
+    width: 150px;
+    margin: 25px 60px;
+  }
+  .photos:hover .logo {
+    visibility: visible;
+    display: block;
+  }
+  .members {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    border: 2px solid var(--dark-gray);
+    margin: auto;
+  }
+  .team-heading {
+    font-size: 35px;
+    width: 100%;
+    margin-bottom: 30px;
+    padding-top : 80px !important;
+  }
+  .arreange {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .teammem .name {
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .teammem .work {
+    color: var(--dark-gray);
+    margin: 5px auto;
+    text-align: center;
+  }
+  .photos {
+    position: relative;
+   
+  }
+  .logo {
+    position: absolute;
+    top: 0;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    background-color: #f1a3eed5;
+    font-size: 30px;
+    padding-top: 60px;
+    display: none;
+    visibility: hidden;
+    opacity: 0.1px;
+    cursor: pointer;
+    
+  }
+  .logo a {
+    margin: 9px;
+    color : white;
+  }
+  .logo a i.facebook:hover{
+    color : #1D4ED8;
+  }
+  .logo a i.twitter:hover{
+    color : #38BDF8;
+  }
+  .logo a i.google:hover{
+    color : #EF4444;
+  }
+
+
+
+
+/* ------------------- Life Part ----------------*/
+
+  
+
+  .life{
+    background-color: #e0e0e0;
+    padding-bottom: 2%;
+  }
+
+ .life h2{
+     padding-top: 40px;
+     padding-bottom: 30px;
+ }
+  
+  
+  .multiple{
+      object-fit: cover;
+      width: 130px;
+      height: 70px;
+      cursor: pointer;
+      opacity: 0.8;
+      margin: 5px;
+  
+  
+  }
+  
+  .multiple:hover{
+      opacity:1;
+  }
+  
+  #slider{
+      width: 600px;
+      display: flex;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      align-items: center;
+  
+  }
+
+  .above{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  
+  #slider::-webkit-scrollbar {
+          display: none;
+  
+  }
+   #image{
+    line-height:450px;
+		width: 575px;
+    height: 450px;
+		
+		margin:0 auto;
+    background-color: #8e68ff;
+    background-image: url('https://www.geeklawblog.com/wp-content/uploads/sites/528/2018/12/liprofile-656x369.png');
+    background-repeat: no-repeat;
+    color:#FFFFFF;
+    text-align: center;
+    background-size: 100%;
+    margin-bottom:25px;
+    font-size: 150%;
+    background-size: cover;
+    
+}
+
+
+/* --------- News Part------ */
+
+.news .news1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 40px;
+}
+
+.news{
+    padding-bottom: 90px;
+    padding-top: 60px;
+    background-image: url("images/news.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.news h2{
+    color: #FFFFFF;
+}
+
+#email{
+    padding-inline: 40px;
+    border-radius: 5px;
+}
+
+#email1{
+    border-radius: 5px;
+    background-color: yellow;
+}
+
+#email1:hover{
+    background-color: rgb(69, 69, 238);
+    color: wheat;
+}
+
+/* --------------- Blog Part ------------ */
+
+.flexview{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+
+.blog img{
+    height: 100px;
+    width: 100px;
+}
+
+.blog{
+    text-align: center;
+    margin-inline: 15px;
+}
+
+.blog button{
+    background-color: yellow;
+    padding-inline: 20px;
+    border-radius: 5px;
+}
+
+.blog button:hover{
+    background-color: rgb(57, 57, 236);
+    color: cornsilk;
+}
+
+
+/* ------------ Contact Part ---------- */
+
+
+.seventh{
+    display: flex;
+    margin-top: 50px;
+}
+
+.seventh img{
+    width:50%;
+    
+    margin-left: 30px;
+}
+
+.seventh aside{
+    padding-left: 10px;
+    background-color: rgb(241, 241, 139);
+    padding-right: 310px;
+    padding-bottom: 30px;
+}
+
+.seventh aside h2{
+    text-align: left;
+}
+
+#but1{
+    padding-inline: 168px;
+    background-color: rgb(92, 31, 235);
+    color: floralwhite;
+
+}
+
+#but1:hover{
+    background-color: gold;
+    color:black;
+}
+
+
+/* -------------- Footer Part ----------- */
+
+
+.footer{
+    justify-content: center;
+   
+    display: flex;
+    margin-top: 50px;
+    padding-bottom: 40px;
+}
+
+.last{
+    margin-inline: 30px;
+    text-align: center;
+}
+
+
+
